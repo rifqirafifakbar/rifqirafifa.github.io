@@ -10,8 +10,7 @@ export const SkillSection = () => {
             className="mx-auto mb-3"
             // style="max-width:600px"
           >
-            I am a quick learner and specialize in multitude of skills required
-            for Web Application Development and Product Design
+            I have skill for Frontend Developer and used editing tools for help my project
           </p>
         </div>
 
@@ -21,7 +20,7 @@ export const SkillSection = () => {
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">HTML5</span>
-                  <span>100%</span>
+                  <span>Advanced</span>
                 </div>
                 <div className="progress my-1">
                   <div
@@ -40,7 +39,7 @@ export const SkillSection = () => {
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">CSS/SCSS</span>
-                  <span>100%</span>
+                  <span>Advanced</span>
                 </div>
                 <div className="progress my-1">
                   <div
@@ -59,7 +58,7 @@ export const SkillSection = () => {
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">React.js</span>
-                  <span>80%</span>
+                  <span>Intermediate</span>
                 </div>
                 <div className="progress my-1">
                   <div
@@ -78,7 +77,7 @@ export const SkillSection = () => {
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">Next.js</span>
-                  <span>70%</span>
+                  <span>Intermediate</span>
                 </div>
                 <div className="progress my-1">
                   <div
@@ -87,10 +86,10 @@ export const SkillSection = () => {
                     data-aos="zoom-in-right"
                     data-aos-delay="300"
                     data-aos-anchor=".skills-section"
-                    style={{ width: "70%" }}
-                    aria-valuenow="70"
+                    style={{ width: "80%" }}
+                    aria-valuenow="80"
                     aria-valuemin="0"
-                    aria-valuemax="70"
+                    aria-valuemax="100"
                   ></div>
                 </div>
               </div>
@@ -99,7 +98,7 @@ export const SkillSection = () => {
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">Photoshop</span>
-                  <span>90%</span>
+                  <span>intermediate</span>
                 </div>
                 <div className="progress my-1">
                   <div
@@ -108,8 +107,8 @@ export const SkillSection = () => {
                     data-aos="zoom-in-right"
                     data-aos-delay="400"
                     data-aos-anchor=".skills-section"
-                    style={{ width: "90%" }}
-                    aria-valuenow="90"
+                    style={{ width: "80%" }}
+                    aria-valuenow="80"
                     aria-valuemin="0"
                     aria-valuemax="100"
                   ></div>
@@ -118,7 +117,7 @@ export const SkillSection = () => {
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">adobe XD</span>
-                  <span>90%</span>
+                  <span>intermediate</span>
                 </div>
                 <div className="progress my-1">
                   <div
@@ -127,8 +126,8 @@ export const SkillSection = () => {
                     data-aos="zoom-in-right"
                     data-aos-delay="500"
                     data-aos-anchor=".skills-section"
-                    style={{ width: "90%" }}
-                    aria-valuenow="90"
+                    style={{ width: "80%" }}
+                    aria-valuenow="80"
                     aria-valuemin="0"
                     aria-valuemax="100"
                   ></div>

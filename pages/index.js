@@ -13,6 +13,19 @@ import { SkillSection } from '../src/component/SkillSection/SkillSection'
 //   ssr: false,
 // })
 
+const signatureName =()=>{
+  return (
+    <a
+      href="https://linkedin.com/in/rifqirafifa"
+      target="_blank"
+      rel="noopener noreferrer"
+      className='mx-1'
+    >
+      Rifqi Rafif Akbar
+    </a>
+  )
+}
+
 export const Home = () => {
   const [data, setData] = useState()
   const getYearNow = new Date().getFullYear();
@@ -44,13 +57,9 @@ export const Home = () => {
 
 
       <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          © Created by Rifqi Rafif Akbar {getYearNow}
-        </a>
+       
+        © Copyright by{signatureName()} {getYearNow}
+
       </footer>
     </div>
   )

@@ -22,10 +22,12 @@
 }
 
 .footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
+  transition: all 0.1s ease-in;
+
+  &:hover {
+    color: orange;
+    font-weight: 700;
+ }
 }
 
 .title a {

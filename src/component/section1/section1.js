@@ -19,8 +19,8 @@ export const Section1 = ()=> {
                                 <p className="lead text-uppercase mb-1">Hello!</p>
                                 <h1 className="intro-title marker" data-aos="fade-left" data-aos-delay="50">I’m Rifqi Rafif Akbar</h1>
                                 <p className="lead fw-normal mt-3" data-aos="fade-up" data-aos-delay="100">Frontend Developer</p>
-                                <p className=" mt-3" data-aos="fade-up" data-aos-delay="100">I am passionate about Front-end Engineering. I'm familiar with React, Next.js and JQuery, I used to working together using Git and Scrum working method system. I have advanced in Photoshop / Corel / AI, also I'm familiar with e2e testing used cypress tools and I'd implement Accessibility, SEO, Best Practice, and Progressive Web Apps in the development website.
-                                    I took the Hackaton event and got The Top 6 Of The Smart City Category at The National level at Telkom Indonesia..</p>
+                                <p className="description mt-3" data-aos="fade-up" data-aos-delay="100">" I am passionate about Front-end Engineering. I'm familiar with React, Next.js and JQuery, I used to working together using Git and Scrum working method system. I have advanced in Photoshop / Corel / AI, also I'm familiar with e2e testing used cypress tools and I'd implement Accessibility, SEO, Best Practice, and Progressive Web Apps in the development website.
+                                    I took the Hackaton event and got The Top 6 Of The Smart City Category at The National level at Telkom Indonesia.. "</p>
                                 <div className="social-nav" data-aos="fade-up" data-aos-delay="200">
                                     <nav role="navigation">
                                         <ul className="nav justify-content-center">
