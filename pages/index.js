@@ -6,7 +6,7 @@ import { useEffect,useState } from 'react'
 // layout
 import HeaderApp from '../src/component/header/HeaderApp'
 import { Section1 } from '../src/component/section1/section1'
-import { SkillSection } from '../src/component/skillSection/skillSection'
+import { SkillSection } from '../src/component/SkillSection/SkillSection'
 
 // render without SSR var = DynamicComponentWithNoSSR
 // const HeaderApp = dynamic(() => import('../src/component/header/HeaderApp'), {
