@@ -94,7 +94,27 @@ export const SkillSection = () => {
                 </div>
               </div>
             </div>
+          
             <div className="col-md-5 offset-md-2">
+              <div className="py-1">
+                <div className="d-flex text-small fw-bolder">
+                  <span className="me-auto">JQuery</span>
+                  <span>Adavanced</span>
+                </div>
+                <div className="progress my-1">
+                  <div
+                    className="progress-bar bg-primary"
+                    role="progressbar"
+                    data-aos="zoom-in-right"
+                    data-aos-delay="400"
+                    data-aos-anchor=".skills-section"
+                    style={{ width: "100%" }}
+                    aria-valuenow="100"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  ></div>
+                </div>
+              </div>
               <div className="py-1">
                 <div className="d-flex text-small fw-bolder">
                   <span className="me-auto">Photoshop</span>

@@ -7,6 +7,7 @@ import { useEffect,useState } from 'react'
 import HeaderApp from '../src/component/header/HeaderApp'
 import { Section1 } from '../src/component/section1/section1'
 import { SkillSection } from '../src/component/SkillSection/SkillSection'
+import { ExperienceSection } from '../src/component/experienceSection/experienceSection'
 
 // render without SSR var = DynamicComponentWithNoSSR
 // const HeaderApp = dynamic(() => import('../src/component/header/HeaderApp'), {
@@ -54,6 +55,9 @@ export const Home = () => {
       <Section1 />
 
       <SkillSection />
+
+
+      <ExperienceSection/>
 
 
       <footer className={styles.footer}>
