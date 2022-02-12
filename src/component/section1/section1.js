@@ -1,7 +1,5 @@
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
-import '@fortawesome/fontawesome-svg-core/styles.css'
-
+import { AiOutlineMail } from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
 
 const styleColor = {
     backgroundColor: '#F4F6F8!important'
@@ -24,7 +22,8 @@ export const Section1 = ()=> {
                                 <div className="social-nav" data-aos="fade-up" data-aos-delay="200">
                                     <nav role="navigation">
                                         <ul className="nav justify-content-center">
-                                        <li className="nav-item"><a className="nav-link" href="https://www.linkedin.com/in/rifqirafifa/" title="LinkedIn"><FontAwesomeIcon size="lg" icon={faLinkedinIn}/><span className="menu-title sr-only">LinkedIn</span></a></li>
+                                        <li className="nav-item"><a className="nav-link" href="https://www.linkedin.com/in/rifqirafifa/" title="LinkedIn"><FaLinkedinIn size='1.5em'/><span className="menu-title sr-only">LinkedIn</span></a></li>
+                                        <li className="nav-item"><a className="nav-link" href="mailto:rifqirafifak@gmail.com" title="LinkedIn"><AiOutlineMail size='1.5em'/><span className="menu-title sr-only">Email</span></a></li>
                                         </ul>
                                     </nav>
                                 </div>
