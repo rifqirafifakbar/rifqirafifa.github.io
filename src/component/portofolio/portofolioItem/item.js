@@ -24,9 +24,9 @@ export const portoItem = [
         imgSrc: '/portofolio/makamku.JPG',
         title: 'Makamku Apps',
     },
-    {
-        label: 'Slicing, jQuery',
-        imgSrc: '/portofolio/f4f.JPG',
-        title: 'First4figures',
-    },
+    // {
+    //     label: 'Slicing, jQuery',
+    //     imgSrc: '/portofolio/f4f.JPG',
+    //     title: 'First4figures',
+    // },
 ]
