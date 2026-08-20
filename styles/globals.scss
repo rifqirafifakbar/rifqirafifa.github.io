@@ -191,13 +191,14 @@ footer a:not(.nav-link) {
 .section-1{
 
   .profile {
-    background-image: url("../src/images/profile2.jpeg");
-    background-size: auto;
-    background-position: 47% -88%;
-    height: 200px;
-    width: 200px;
+    background-image: url("../src/images/profile1.jpeg");
+    background-position: -50px -137px;
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
     margin: 0 auto;
+    background-size: 150%;
+    background-repeat: no-repeat;
   }
 
   .bg-light {
