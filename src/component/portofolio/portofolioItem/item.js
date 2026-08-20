@@ -1,5 +1,30 @@
 export const portoItem = [
     {
+        label: 'NextJs, React',
+        imgSrc: '/portofolio/rws.png',
+        title: 'Resort World Sentosa Singapore',
+    },
+        {
+        label: 'NextJs, React',
+        imgSrc: '/portofolio/LRT.png',
+        title: 'Computerized Maintenance Management System (CMMS) for LRT Indonesia\'s state-owned enterprise',
+    },
+        {
+        label: 'NextJs, React',
+        imgSrc: '/portofolio/pertamina.png',
+        title: 'Pertamina Learning Hub',
+    },
+    {
+        label: 'NextJs, React',
+        imgSrc: '/portofolio/komatsu.png',
+        title: 'Komatsu Indonesia',
+    },
+    {
+        label: 'NextJs, React',
+        imgSrc: '/portofolio/kfast.png',
+        title: 'Komatsu KFast',
+    },
+    {
         label: 'React',
         imgSrc: '/portofolio/moe.JPG',
         title: 'Ministry Of Education',
